@@ -1,1 +1,1 @@
-# Password-Generator-Manager
+# Password-Vault-GUI-Application
